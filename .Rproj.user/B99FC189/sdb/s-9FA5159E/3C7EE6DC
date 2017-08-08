@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: About\ncomments: false\nweight: -1\ntype: post\nshare: true\ncomment: true\n---\n\n# About Me\nI'm a Bioinformatician with a strong biological background. I'm enthusiastic about Machine Learning and Data Science in general. I love working on challenging problems, especially if they are biologically or medically inspired. \n\n# About this Blog\nOn this blog I share my experiences on Machine Learning related topis. This includes building and engineering machine learning systems, working with biomedical datasets, discussions of specific algorithms and aproaches in Deep- and traditional Machine Learning, as well as the occasional research paper that caught my eye.\n\n",
+    "created" : 1502203504986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1621532118",
+    "id" : "3C7EE6DC",
+    "lastKnownWriteTime" : 1502179164,
+    "last_content_update" : 1502179164,
+    "path" : "~/workspace/R/webDevelopment/PerceptionMachines/content/about.md",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

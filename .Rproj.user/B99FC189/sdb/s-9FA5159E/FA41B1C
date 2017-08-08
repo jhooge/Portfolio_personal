@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\ntitle = \"Blog\"\nweight = 30\ndraft = false\n+++\n\n{{< figure class=\"image main\" src=\"/images/blog_front.png\" >}}\n\n> <i>Machine perception is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them.</i>\n\nOn my blog \"[Perception Machines](https://perception-machines.netlify.com)\" I regularly write about topics revolving around Deep- and traditional Machine Learning. Besides rambling about algorithmic techniques, I also discuss interesting new publications I come across during my daily work. \n\nIf this is right up your alley, come by or [drop me a line](#contact). I'm always happy to discuss these topics with likeminded people.",
+    "created" : 1502190250407.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3061464469",
+    "id" : "FA41B1C",
+    "lastKnownWriteTime" : 1502203352,
+    "last_content_update" : 1502203352964,
+    "path" : "~/workspace/R/webDevelopment/Portfolio_personal/content/blog.md",
+    "project_path" : "content/blog.md",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

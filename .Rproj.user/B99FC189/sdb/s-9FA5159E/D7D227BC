@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"/\"\ntitle = \"jhooge\"\ntheme = \"dimension\"\nlanguageCode = \"en-us\"\ndefaultContentLanguage = \"en\"\nenableRobotsTXT = true\ndisableKinds = [\"RSS\"]\n\n[params]\n  title = \"Jens Hooge\"\n  description = \"Bioinformatician & Machine Learning Engineer\"\n  logo = \"fa-diamond\"\n  copyright = \"Jens Hooge 2017\"\n\n[[params.social]]\n  medium = \"twitter\"\n  icon = \"twitter\"\n  link = \"https://twitter.com/HoogeJens\"\n\n[[params.social]]\n  medium = \"github\"\n  icon = \"github\"\n  link = \"https://github.com/jhooge\"\n  \n[[params.social]]\n  medium = \"linkedin\"\n  icon = \"linkedin\"\n  link = \"https://www.linkedin.com/in/jenshooge/\"",
+    "created" : 1502180919386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3946674920",
+    "id" : "D7D227BC",
+    "lastKnownWriteTime" : 1502202024,
+    "last_content_update" : 1502202024509,
+    "path" : "~/workspace/R/webDevelopment/Portfolio_personal/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

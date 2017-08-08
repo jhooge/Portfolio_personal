@@ -1,0 +1,28 @@
+baseurl = "/"
+title = "jhooge"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds = ["RSS"]
+
+[params]
+  title = "Jens Hooge"
+  description = "Bioinformatician & Machine Learning Engineer"
+  logo = "fa-diamond"
+  copyright = "Jens Hooge 2017"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/HoogeJens"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/jhooge"
+  
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/jenshooge/"

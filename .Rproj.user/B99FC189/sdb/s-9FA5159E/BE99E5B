@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\ntitle = \"Intro\"\nweight = 10\ndraft = false\n+++\n\n{{< figure class=\"image main\" src=\"/images/pic01.jpg\" >}}\n## Whoami\nHi there, my name is Jens Hooge and I'm a Bioinformatician and Machine Learning Engineer, working, living and loving in Berlin.\n\n## From Developmental Biology to Machine Learning\nBack in 1999, right after finishing my training as a Biological Lab Technician, I stumbled into my first job interview at [MPI for Developmental Biology](http://www.eb.tuebingen.mpg.de). The position description sounded pretty funky. Something about, \"Screening of genetic mutations in Zebrafish\", \"Radiation Hybrid Mapping\", \"Bacterial Artificial Chromosomes\", \"Understanding of developmental processes on genomic and phenotypic level\". In short, I had no idea what I was getting into. In fact, the dimension of how little idea I had, was made clear to me afterwards by a friend, who told me that I just got interviewed by the first woman to win the Nobel Prize in medicine in 1995, [Christiane Nuesslein-Volhardt](http://www.eb.tuebingen.mpg.de/nc/research/emeriti/research-group-colour-pattern-formation/profile/details/cnv.html). Well, I guess if I had known I would not have gotten the job and probably my professional life would have taken a completely different turn.\n\nThere could not have been a more exciting time to get into genetics. The Human Genome Project was at its peak and not even a year later the first drafts of the human sequence were published by Celera Genomics and the Sanger Center. This development led to wild imaginations and ethical discussions, not only in our group, but also world wide. The impact of the newly emerging field of genomics, ranged from individual medicine to designer babies. It was however clear to all of us, that without new mathematical and statistical approaches, working on this huge heap of data would be challenging, to say the least. \n\nI knew I wanted to be part of this development and decided, that I would go to school again to receive my entrance degree for university to study Bioinformatics. At about the same time [Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs), one of the leading researchers in Kernel based Machine Learning, became managing director of our neighboring [MPI for Intelligent Systems](http://www.is.mpg.de/en) (formerly: [MPI for Biological Cybernetics](http://www.kyb.tuebingen.mpg.de/events/event/view-list%7Cpage_id-2.html?tx_cal_controller%5Byear%5D=2015&tx_cal_controller%5Bmonth%5D=12&tx_cal_controller%5Bday%5D=09)). His research fascinated me from the start. The idea that computers could learn from \"experience\" was a completely new concept to me. There were not many applications of Machine Learning to biological data yet, as Bioinformatics was only just becoming a \"thing\". To me however, combining these fields was the best idea since sliced bread! So I took every course that I somehow could relate to these two topics.\n\nUltimately this lead me back to the MPI Campus at the end of my studies. This time into Bernhard Schölkopf's group for \"Empirical Inference\". Here I had the chance to work on constrained optimization algorithms for three years, to predict protein structures. This lead to the development of RAILIN (Resonance Assignment via Integer LINear Programming) and a diploma thesis. During this time I lived and breathed research from different areas and the scientific cross-talk between, biologists, cyberneticists, cognitive scientists and machine learners is what got me where I am today. Working at the interface between mathematics and precision medicine.",
+    "created" : 1502181693298.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3066328845",
+    "id" : "BE99E5B",
+    "lastKnownWriteTime" : 1502202655,
+    "last_content_update" : 1502202655472,
+    "path" : "~/workspace/R/webDevelopment/Portfolio_personal/content/intro.md",
+    "project_path" : "content/intro.md",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
