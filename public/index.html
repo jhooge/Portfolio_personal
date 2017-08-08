@@ -41,6 +41,8 @@
                 
                   <li><a href="#blog">Blog</a></li>
                 
+                  <li><a href="#contact">contact</a></li>
+                
               </ul>
             </nav>
           </header>
@@ -113,6 +115,54 @@ Most of my work I&rsquo;m doing is in R and Python, but in the end it comes down
 <p>On my blog &ldquo;<a href="https://perception-machines.netlify.com">Perception Machines</a>&rdquo; I regularly write about topics revolving around Deep- and traditional Machine Learning. Besides rambling about algorithmic techniques, I also discuss interesting new publications I come across during my daily work.</p>
 
 <p>If this is right up your alley, come by or <a href="#contact">drop me a line</a>. I&rsquo;m always happy to discuss these topics with likeminded people.</p>
+
+</article>
+
+            
+              <article id="contact">
+  <h1>Get In Touch</h1>
+  <p><form id="contactform" method="post" action="https://formspree.io/jens.hooge@gmail.com">
+    <div class="field half first">
+        <input type="text" name="name" id="name" placeholder="Name"/>
+    </div>
+    <div class="field half">
+        <input type="email" id="email" name="email" placeholder="Email">
+    </div>
+    <div class="field">
+        <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+    </div>
+    <ul class="actions">
+        <li><input type="submit" value="Send message" class="special" /></li>
+        <li><input type="reset" value="Reset" /></li>
+    </ul>
+    <input type="hidden" name="_next" value="?sent#formspree" />
+    <input type="hidden" name="_subject" value="Subject for your mail like new message" />
+    <input type="text" name="_gotcha" style="display:none" />
+</form>
+<span id="contactformsent">Thank you for your message</span></p>
+
+<script>
+$(document).ready(function($) { 
+    $(function(){
+        if (window.location.search == "?sent") {
+            $('#contactform').hide();
+            $('#contactformsent').show();
+        } else {
+            $('#contactformsent').hide();
+        }
+    });
+});
+</script>
+
+<ul class="icons">
+
+	<li><a href="https://twitter.com/HoogeJens" class="icon fa-twitter"><span class="label">twitter</span></a></li>
+
+	<li><a href="https://github.com/jhooge" class="icon fa-github"><span class="label">github</span></a></li>
+
+	<li><a href="https://www.linkedin.com/in/jenshooge/" class="icon fa-linkedin"><span class="label">linkedin</span></a></li>
+
+</ul>
 
 </article>
 

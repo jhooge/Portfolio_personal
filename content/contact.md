@@ -2,7 +2,7 @@
 title = "Get In Touch"
 weight = 60
 menuname = "Contact"
-draft = true
+draft = false
 +++
 
 <form id="contactform" method="post" action="https://formspree.io/jens.hooge@gmail.com">
