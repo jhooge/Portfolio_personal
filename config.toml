@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jhooge.netlify.com/"
 title = "jhooge"
 theme = "dimension"
 languageCode = "en-us"
