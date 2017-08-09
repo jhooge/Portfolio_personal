@@ -9,7 +9,7 @@ disableKinds = ["RSS"]
 [params]
   title = "Jens Hooge"
   description = "Bioinformatician & Machine Learning Engineer"
-  logo = "fa-diamond"
+  logo = "fa-hand-peace-o"
   copyright = "Jens Hooge 2017"
 
 [[params.social]]
