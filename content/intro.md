@@ -4,7 +4,7 @@ weight = 10
 draft = false
 +++
 
-{{< figure class="image main" src="/images/pic01.jpg" >}}
+{{< figure class="image main" src="/images/intro.jpg" >}}
 ## Whoami
 Hi there, my name is Jens Hooge and I'm a Bioinformatician and Machine Learning Engineer, working, living and loving in Berlin.
 
